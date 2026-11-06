@@ -1,0 +1,6 @@
+{
+  "name": "ECR FastTrack - 경미 설계변경 등급별 승인 축소 솔루션 & PRD",
+  "description": "생산기술 조립 공정설계에서 경미한 설계변경의 불필요한 결재 대기를 제거하고 영향도 기반 즉시 선진행 및 실시간 핸드오프를 추적하는 직무 개선 솔루션 & PRD 상세 요구사항 정의서 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
